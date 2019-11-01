@@ -8,3 +8,11 @@ Vanika admin dashboard adalah web yang bertujuan untuk menampilkan dan mengolah 
 Data yang di olah berupa data user dari token sampai email, lalu user message command dan text.
 
 <img src="dashboard.jpg">
+
+
+## Next To Do?
+- [ ] Add Ajax Count (Untuk menampilkan data realtime tanpa di refresh)
+- [ ] Add Ajax CRUD (Untuk mengolah data realtime tanpa di refresh)
+- [ ] Add Gmail smtp untuk mengolah email admin
+- [ ] Add Vanikabot Uptime
+- [ ] Mengolah notifikasi
