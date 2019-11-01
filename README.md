@@ -7,4 +7,4 @@ Vanika admin dashboard adalah web yang bertujuan untuk menampilkan dan mengolah 
 
 Data yang di olah berupa data user dari token sampai email, lalu user message command dan text.
 
-<img src="demo1.jpg">
+<img src="dashboard.jpg">
