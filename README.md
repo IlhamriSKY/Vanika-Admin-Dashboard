@@ -11,7 +11,8 @@ Data yang di olah berupa data user dari token sampai email, lalu user message co
 
 
 ## Next To Do?
-- [ ] Add Ajax Count (Untuk menampilkan data realtime tanpa di refresh)
+- [ ] Add Ajax Count (Untuk menampilkan data realtime refresh setiap 1h sekali)
+- Jadi datanya yang keload setiap 1jam sekali disimpan dalam cache(REDIS, MEMCACHED)
 - [ ] Add Ajax CRUD (Untuk mengolah data realtime tanpa di refresh)
 - [ ] Add Gmail smtp untuk mengolah email admin
 - [ ] Add Vanikabot Uptime
