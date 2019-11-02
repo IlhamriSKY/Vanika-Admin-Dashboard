@@ -58,4 +58,16 @@
 	    }
 	}
 
+	if(!function_exists('dd')){
+		/**
+		 * Dump variabel
+		 *
+		 * @param mixed $var
+		 * @return mixed
+		 */
+		function dd($var){
+			dump($var);
+		}
+	}
+
   
